@@ -1,0 +1,32 @@
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook / IPython files
+.ipynb_checkpoints
+
+# Colab specific
+.config/
+sample_data/
+
+# Virtual environment
+venv/
+.env/
+
+# Editor/IDE specific
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.db
+
+# Data files that are large or sensitive
+.csv
+*.xlsx
+*.parquet
+
+# OS generated files
+.DS_Store
+thumbs.db
