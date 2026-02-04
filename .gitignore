@@ -23,7 +23,7 @@ venv/
 *.db
 
 # Data files that are large or sensitive
-.csv
+*.csv
 *.xlsx
 *.parquet
 
